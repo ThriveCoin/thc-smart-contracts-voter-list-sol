@@ -1,4 +1,4 @@
-# thc-smart-contracts-sol
+# thc-smart-contracts-voter-list-sol
 
 ## Local env
 
